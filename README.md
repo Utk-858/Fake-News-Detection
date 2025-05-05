@@ -15,6 +15,8 @@ We use a variety of techniques such as:
 ## 📂 Dataset
 
 - File: `merged_news.csv`
+📥 [Download merged_news.csv](https://drive.google.com/file/d/1L7RR4n027RtH1QHekIcsQNtGqs3VnqWL/view?usp=drive_link)
+
 - Format: CSV
 - Key columns:
   - `title`: Headline of the news
